@@ -9,4 +9,5 @@ you are Scott Cawthon
 plus food and water
 
 <br>when you reach a specific point of the facility, you start noticing that the name of the place changes to Metallica Industries. in this section of the facility, mains power is connected to Reactor RS-12HP, a far more stable core from the 60s. in this section, you also can't charge your weaponry from this core. this is because it doesn't supply the required wattage to charge the weaponry efficiently.
+later, from a barely-working TV, if you turn it on, you can see a sideshow that reveals a partnership between the two companies.
 
